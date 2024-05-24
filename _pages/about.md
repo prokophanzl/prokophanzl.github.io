@@ -84,6 +84,10 @@ I was invited onboard [ProCzeFor](https://www.proczefor.cz/), a project by Charl
 
 # Projects
 
+## Minute Linguistics
+
+In 2023, I started making short videos about linguistics on my Youtube channel, [Minute Linguistics](https://www.youtube.com/@minutelinguistics). I haven't been uploading regularly, but once time allows me to, I plan on resuming posting new videos more often.
+
 ## DSW
 
 In 2023, exploring the frontier of corpus linguistics and data-driven approaches, I created a modest [Swiss German-German dictionary](https://dsw.dustah.com). With almost 60,000 data points and over 15,000 unique words, it has helped countless people in conquering the notoriously difficult Swiss German dialect.
