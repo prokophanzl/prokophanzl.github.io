@@ -3,23 +3,28 @@ layout: page
 title: Elements
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 permalink: /elements/
-image: '/images/17.jpg'
+image: "/images/17.jpg"
 ---
 
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
 
-***
+---
 
 ## Headings by default:
 
 # H1 Default styles for headings
+
 ## H2 Default styles for headings
+
 ### H3 Default styles for headings
+
 #### H4 Default styles for headings
+
 ##### H5 Default styles for headings
+
 ###### H6 Default styles for headings
 
-***
+---
 
 ## Lists
 
@@ -31,17 +36,17 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 4. Jean shorts shaman listicle pickled portland.
 5. Salvia mumblecore brunch iPhone migas.
 
-***
+---
 
 ### Unordered list example:
 
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
+-   Bitters semiotics vice thundercats synth.
+-   Literally cred narwhal bitters wayfarers.
+-   Kale chips chartreuse paleo tbh street art marfa.
+-   Mlkshk polaroid sriracha brooklyn.
+-   Pug you probably haven't heard of them air plant man bun.
 
-***
+---
 
 ## Table
 
@@ -57,7 +62,7 @@ A paragraph looks like this — Globally incubate standards compliant channels b
   </table>
 </div>
 
-***
+---
 
 ## Quotes
 
@@ -67,50 +72,50 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 >
 > <cite>George Bernard Shaw</cite>
 
-***
+---
 
 ## Syntax Highlighter
 
 {% highlight css %}
 body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: #1c2021;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+width: 100vw;
+background-color: #1c2021;
 }
 
 li {
-  width: 200px;
-  min-height: 250px;
-  border: 1px solid #000;
-  display: inline-block;
-  vertical-align: top;
-  margin: 5px;
+width: 200px;
+min-height: 250px;
+border: 1px solid #000;
+display: inline-block;
+vertical-align: top;
+margin: 5px;
 }
 {% endhighlight %}
 
 {% highlight js %}
-  $('.top').click(function () {
+$('.top').click(function () {
     $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
   });
   $(window).scroll(function () {
     if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
+$('.top').addClass("top-active");
+} else {
+$('.top').removeClass("top-active");
+};
+});
 {% endhighlight %}
 
-***
+---
 
 ## Images
 
 ![Man]({{site.baseurl}}/images/21.jpg#wide)
-*Photo by [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)*
+_Photo by [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)_
 
 <div class="gallery-box">
   <div class="gallery">
@@ -128,18 +133,18 @@ li {
 </div>
 
 ![Man]({{site.baseurl}}/images/01-2.jpg)
-*Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)*
+_Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)_
 
-***
+---
 
 ## Youtube Embed
 
 <p><iframe src="https://www.youtube.com/embed/NFTstL115nY" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
-***
+---
 
 ## Vimeo Embed
 
 <p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
-***
+---
