@@ -12,7 +12,7 @@ featured: true
 
 My name's Prokop. I study linguistics, I enjoy making music, and when I was 13, I almost lost my life in a terrorist attack.
 
-**<u>CONTENT WARNING:</u> mentions of acts of terror, loss of life, school shootings, and trauma.**
+**<u>CONTENT WARNING:</u> This article contains mentions of acts of terror, loss of life, school shootings, and trauma.**
 
 It was July 14, 2016, and I was on vacation in Nice, France with my family. Along with tens of thousands of other people, we were attending the Bastille Day parade on the _Promenade des Anglais._ But the fun ended quickly at half past ten in the evening, when a 19-ton truck plowed through the crowd right in front of me, taking 86 lives.
 
