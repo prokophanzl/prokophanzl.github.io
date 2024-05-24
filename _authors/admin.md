@@ -1,7 +1,7 @@
 ---
 username: admin
 name: Prokop 'Ash' Hanžl
-image: ../images/ash.jpg
+image: "https://prokophanzl.github.io/images/ash.jpg"
 website: https://www.dustah.com
 linkedin: https://linkedin.com/in/prokop-hanzl
 ---

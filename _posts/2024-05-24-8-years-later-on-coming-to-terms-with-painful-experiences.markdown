@@ -4,7 +4,7 @@ title: "8 Years Later: On coming to terms with painful experiences"
 description: In 2016, I stood within feet of losing my life. Here's what I learned.
 date: 2024-05-24 00:00
 author: admin
-image: images/july14.png
+image: "https://prokophanzl.github.io/images/july14.png"
 image_caption:
 tags: [personal, motivation]
 featured: true
