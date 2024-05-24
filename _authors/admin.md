@@ -1,9 +1,9 @@
 ---
 username: admin
-name: Dann Kanigan
-image: '/images/01-1.jpg'
-website: https://www.google.com
-twitter: https://twitter.com
-facebook: https://www.facebook.com
+name: Prokop 'Ash' Hanžl
+image: ../images/ash.jpg
+website: https://www.dustah.com
+linkedin: https://linkedin.com/in/prokop-hanzl
 ---
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior.
+
+Hi! I'm Prokop 'Ash' Hanžl. I study linguistics and phonetics at Charles University in Prague, I love making music and traveling, and I dabble in coding.

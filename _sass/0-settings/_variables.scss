@@ -9,8 +9,7 @@ $base-spacing-unit: 16px;
 $global-radius: 12px;
 
 // Transition
-$global-transition: all .2s;
-
+$global-transition: all 0.2s;
 
 // *****************
 // Typography
@@ -19,12 +18,12 @@ $base-font-size: 18px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
-$base-font-family: 'Mulish', Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-font-family: "Mulish", Helvetica Neue, Helvetica, Arial, sans-serif;
 $base-line-height: 1.6;
 
 // Headings
 $heading-font-weight: 800;
-$heading-font-family: 'Mulish', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-font-family: "Mulish", Helvetica Neue, Helvetica, Arial, sans-serif;
 
 $font-size-h1: 36px;
 $font-size-h2: 28px;
@@ -34,4 +33,4 @@ $font-size-h5: 18px;
 $font-size-h6: 16px;
 
 $heading-line-height: 1.4;
-$heading-letter-spacing: -.5px;
+$heading-letter-spacing: -0.5px;

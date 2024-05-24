@@ -1,49 +1,103 @@
 ---
 layout: page
-title: About
-description: Hey! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada.
+title: About Me
+description: Hi! My name's Prokop Hanžl, but I mostly go by Ash on the internet. I study linguistics and phonetics at Charles University in Prague, I love making music and traveling, and I dabble in coding.
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
+image:
+image_caption:
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# Education
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Charles University 🇨🇿 (2021-2025)
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+I'm pursuing a bachelor's degree in general linguistics and phonetics at Charles University in Prague, Czechia. I am on track to conclude my studies in June 2025 with exceptional grades, having received the university's **Scholarship for Extraordinary Academic Performance** in both my first and second year.
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Oleg Chursin.
+## University of Heidelberg 🇩🇪 (04-09/2024)
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+I am currently spending a semester at the University of Heidelberg in Germany through Erasmus+. In Heidelberg, I am studying under the German Studies program.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/02.jpg" loading="lazy">
-    <img src="/images/07.jpg" loading="lazy">
-    <img src="/images/04.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/21.jpg" loading="lazy">
-    <img src="/images/03-2.jpg" loading="lazy">
-    <img src="/images/16-2.jpg" loading="lazy">
-  </div>
-  <em>My Best Works / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+## University of Basel 🇨🇭 (09/2022-01/2023)
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+In 2022, I was one of two Charles University students to receive a scholarship to spend a semester at the University of Basel in Switzerland. In Basel, I studied under the German Studies program, taking classes on various topics in German, English, and French.
 
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
+# Volunteering
 
-### Dynamically innovate
+## Czech Linguistics Olympiad (since 2021)
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+Having won the national round of the [Czech Linguistics Olympiad](https://lingol.cz) in 2021 and earned an honorable mention with the Czech Team in the [International Linguistics Olympiad](https://ioling.org/), it only made sense for me to start volunteering as soon as I started my studies.
 
-<p><iframe src="https://www.youtube.com/embed/QMw6kzi3Wx8" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+Since 2024, I serve as **Partnership & Financing Coordinator**, helping in other areas as well&nbsp;— such as creating and testing problem sets and organizing our events.
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+## SPOBL (since 2023)
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+With the help of several classmates in my linguistics program, I founded the department's [student organization, SPOBL](https://linktr.ee/spobl). I played a key role in bringing the organization to life and defining its goals, principles, and direction.
 
-***
+I now serve on the organization's **Committee** and help it grow and prosper, organizing events, talks, and caring for our brand image.
+
+## ESN Charles University (since 2023)
+
+After returning from my exchange semester in Basel, I wanted to make a difference and broaden my horizons. For that, joining [ESN CU Prague](https://www.esncuprague.cz/)'s event organization team was perfect. Since 2023, I've been helping to organize events and ensure that international students at Charles University have an unforgettable stay in Prague.
+
+## European Day of Languages 2023 (September 2023)
+
+I was approached with the offer of volunteering at the [European Day of Languages 2023](https://libraryoflanguages.ff.cuni.cz/edj2023/) in Prague. I took great pleasure in helping organize the event, making many new connections and extending my outlook on my own field.
+
+## ICPhS 2023 (August 2023)
+
+As a student of phonetics, I was thrilled to find out that the world's most important phonetics conference was [set to take place in Prague in 2023](https://www.icphs2023.org/). I signed up as a volunteer to help the event run smoothly and make sure our guests were adequately supported.
+
+At the same time, being able to attend talks and take part in discussions, I had an unique opportunity to learn from the best and make strong, lifelong connections for my academic life.
+
+## AFS (2020-2023)
+
+Having spent part of 2020 in a host family in Winterthur, Switzerland on an exchange program through the [mostly volunteer-run organization AFS](https://www.afs.cz/), I was excited to take on new challenges as a volunteer myself.
+
+I helped organize events for international students in Prague, preparatory and post-exchange meetings for local students traveling abroad, and later became one of the driving forces on the training and debriefing team, handling onboarding of new volunteers.
+
+During my exchange semester in Basel, I also became involved in the local chapter of the organization, later parting ways with AFS as I transitioned to ESN to face new and exciting challenges.
+
+# Work Experience
+
+## Language Teacher @ SPĚVÁČEK (2023-2024)
+
+Before my exchange semester in Heidelberg, I worked as an English and Czech language teacher for the [SPĚVÁČEK language school](https://www.jazykovka.info/) in Prague. I taught students of various levels, ranging from absolute beginners to advanced learners.
+
+## Czech Language Teacher @ University of Basel (2022)
+
+During my exchange semester in Basel, I was asked to teach a supplementary conversation class for students of Czech, an opportunity I took with great pleasure. I introduced my students to various topics mostly in Czech culture, ensuring that my classes were fresh and captivating every week.
+
+## Audio Normalization @ ProCzeFor (2022)
+
+I was invited onboard [ProCzeFor](https://www.proczefor.cz/), a project by Charles University's [Phonetics Department](https://fonetika.ff.cuni.cz), optimizing the workflow for audio normalization across recordings from various voice actors.
+
+# Languages
+
+-   **Czech:** mother tongue
+-   **English:** C2 (CPE, Grade: A, 2022)
+-   **German:** C2 (Goethe-Zertifikat C2, 2023)
+-   **French:** B2+
+-   **Swiss German:** conversational
+-   **Slovak:** full written & spoken understanding
+-   **Spanish:** rudimentary conversation, advanced written understanding
+-   **Luxembourgish:** written understanding
+
+# Projects
+
+## DSW
+
+In 2023, exploring the frontier of corpus linguistics and data-driven approaches, I created a modest [Swiss German-German dictionary](https://dsw.dustah.com). With almost 60,000 data points and over 15,000 unique words, it has helped countless people in conquering the notoriously difficult Swiss German dialect.
+
+It is built on real Swiss German data, which has been cleaned, translated into standard German, and turned into a dictionary which returns a frequency distribution graph with all translations and unique spellings in my dataset.
+
+## Prokop's Art
+
+Facing an abundance of time and creative energy in 2021, I started drawing silly drawings with humorous captions on [Instagram](https://www.instagram.com/prokops.art). Having amassed over 20,000 followers at the account's peak after running a campaign where 100% of the proceeds from my commissions went towards helping Ukraine's defense in March of 2022, I ceased working on this projects for good in early 2023.
+
+## DUSTAH
+
+Since the age of five, I have been interested in music, growing up taking piano and singing lessons and later learning to play a multitude of instruments by myself. Around age 13, I got interested in making my own music and have been getting better at my craft under the moniker **DUSTAH** ever since.
+
+You can listen to [Crash The Car](https://distrokid.com/hyperfollow/dustah/crash-the-car), [Promised Land](https://distrokid.com/hyperfollow/dustah/promised-land-feat-vela), and my other music on most streaming services or [Youtube](https://www.youtube.com/@dustah).
+
+---
