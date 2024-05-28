@@ -4,15 +4,15 @@ title: "Navigating Switzerland as an International Student: 33 Tips"
 description: Switzerland might seem like heaven on earth, but studying there brings more challenges than one would imagine.
 date: 2024-05-24 09:00
 author: admin
-image_caption:
 image: images/switzerland.jpg
+image_caption: Switzerland is just as pretty as it is complicated.
 tags: [travel, studying, switzerland]
 featured: true
 ---
 
 Hi there! I spent 4 months in Winterthur in high school in 2020 and another semester at Uni Basel in 2022-2023. From _Anmeldung,_ over different insurances, and ways to save money, to looking for a place to stay, here are some things I wish I’d known before leaving. A lot of these tips will be centered around the German speaking part of Switzerland, but I’m sure many are applicable in other parts as well.
 
-Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-term stay, so some of the administrative tips might not fully apply if you are in a different situation. I will not delve into visa/permit requirements in this article.
+Furthermore, I am an EEA citizen and I was in Switzerland only on a short-term stay, so some of the administrative tips might not fully apply if you are in a different situation. I will not delve into visa/permit requirements in this article.
 
 ## Living
 
@@ -32,6 +32,8 @@ Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-t
 
     Your university might offer dorms for a good price, make sure to do some research on those and act quickly if you want to get a room there.
 
+---
+
 ## Money
 
 1. **Revolut / Wise**
@@ -41,6 +43,8 @@ Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-t
 2. **Cantonal Bank _(Kantonalbank)_**
 
     If you do need a Swiss bank account, try your local cantonal bank _(Kantonalbank)_. They often offer free accounts for students.
+
+---
 
 ## Insurance
 
@@ -71,6 +75,8 @@ Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-t
 6. **Household Insurance _(Haushaltsversicherung)_**
 
     Some places (such as WoVe in Basel as mentioned above) will require you to get household insurance _(Haushaltsversicherung)_. From my experience, [AXA](https://www.axa.ch/) offers reasonable pricing and everything can be done online.
+
+---
 
 ## Food
 
@@ -110,6 +116,8 @@ Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-t
 
     There are many so-called public fridges around Switzerland, for example those operated by [Madame Frigo](https://www.madamefrigo.ch/). Anyone can come by and take food out of the fridge for free — usually on a first come, first serve basis. However, please be considerate: if you can afford to buy your own food, please leave these to those who cannot.
 
+---
+
 ## Transport
 
 1. **Half-Fare Travelcard _(Halbtax-Abo)_ and Other Subscriptions**
@@ -123,6 +131,8 @@ Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-t
 3. **Bikes**
 
     Much like the Netherlands, a large part of Switzerland is suitable for riding a bike. If you can’t bring your own, consider getting a cheap bike at the beginning of your stay; try asking previous tenants who are moving out if they have one they would like to sell or gift.
+
+---
 
 ## Miscellaneous
 
@@ -170,4 +180,8 @@ Furthermore, I am an EEA citizen and I was also in Switzerland only on a short-t
 
     You might get hit with the Serafe fee (unless you're deaf-blind, which I'd wager you're not) — it is a per-year, per-household fee, so work it out with your roommates. Don’t try to dodge it.
 
+---
+
 This list is by no means exhaustive — if you'd like me to add something or have any questions, feel free to reach out at `phanzl@dustah.com`!
+
+---
