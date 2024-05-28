@@ -5,7 +5,7 @@ description: On July 14 2016, I stood within feet of losing my life. Here's how 
 date: 2024-05-24 00:00
 author: admin
 image: images/july14.png
-image_caption:
+image_caption: A tragedy can happen anytime, anywhere, to anyone.
 tags: [personal, motivation]
 featured: true
 ---
