@@ -4,7 +4,7 @@ title: "8 Years Later: On coming to terms with painful experiences"
 description: On July 14 2016, I stood within feet of losing my life. Here's how I came to terms with it and what I realized on the way.
 date: 2024-05-24 00:00
 author: admin
-image: images/july14.png
+image: /images/july14.png
 image_caption: A tragedy can happen anytime, anywhere, to anyone.
 tags: [personal, motivation]
 featured: true
