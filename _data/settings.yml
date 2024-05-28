@@ -10,7 +10,7 @@ description: Multipurpose Jekyll Blog Theme
 author:
     author__name: Prokop 'Ash' Hanžl
     author__bio: Hi! My name's Prokop Hanžl, but I mostly go by Ash on the internet. I study linguistics and phonetics at Charles University in Prague, I love making music and traveling, and I dabble in coding.
-    author__avatar: /images/ash.jpg
+    author__avatar: images/ash.jpg
 
 #-------------------------------
 # Navigation Settings

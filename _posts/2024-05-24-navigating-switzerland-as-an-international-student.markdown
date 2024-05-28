@@ -4,8 +4,8 @@ title: "Navigating Switzerland as an International Student: 33 Tips"
 description: Switzerland might seem like heaven on earth, but studying there brings more challenges than one would imagine.
 date: 2024-05-24 09:00
 author: admin
-image: https://prokophanzl.github.io/images/switzerland.jpg
 image_caption:
+image: images/switzerland.jpg
 tags: [travel, studying, switzerland]
 featured: true
 ---
