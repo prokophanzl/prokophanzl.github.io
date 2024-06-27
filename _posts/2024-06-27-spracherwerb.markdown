@@ -2,7 +2,7 @@
 layout: post
 title: "Referat – Spracherwerb"
 description: Hier können Sie die Folien zu den heutigen Präsentationen herunterladen.
-date: 2024-06-27 12:39
+date: 2024-06-27 9:15
 author: admin
 image: /images/referat.png
 image_caption:
