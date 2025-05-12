@@ -59,9 +59,13 @@ During my exchange semester in Basel, I also became involved in the local chapte
 
 # Work Experience
 
-## Language Teacher @ SPĚVÁČEK (2023-2024)
+## Research Assistant @ Institute of Psychology, Czech Academy of Sciences (2024-2025)
 
-Before my exchange semester in Heidelberg, I worked as an English and Czech language teacher for the [SPĚVÁČEK language school](https://www.jazykovka.info/) in Prague. I taught students of various levels, ranging from absolute beginners to advanced learners.
+As a research assistant at a psycholinguistics lab ([LemonLab](https://lemonlab.cz/)), I contributed to various stages of experimental research, including literature reviews, preparing stimuli, and designing the experiments themselves. I led the testing phase of a simultaneous EEG and fNIRS experiment, coordinating participant sessions and ensuring high-quality data collection.
+
+## Language Teacher @ SPĚVÁČEK (2023-2025)
+
+Before and after my exchange semester in Heidelberg, I worked as an English and Czech language teacher for the [SPĚVÁČEK language school](https://www.jazykovka.info/) in Prague. I taught students of various levels, ranging from absolute beginners to advanced learners.
 
 ## Czech Language Teacher @ University of Basel (2022)
 
