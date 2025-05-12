@@ -98,9 +98,9 @@ In 2023, exploring the frontier of corpus linguistics and data-driven approaches
 
 It is built on real Swiss German data, which has been cleaned, translated into standard German, and turned into a dictionary which returns a frequency distribution graph with all translations and unique spellings in my dataset.
 
-## Prokop's Art
+## Fergy and Friends
 
-Facing an abundance of time and creative energy in 2021, I started drawing silly drawings with humorous captions on [Instagram](https://www.instagram.com/prokops.art). Having amassed over 20,000 followers at the account's peak after running a campaign where 100% of the proceeds from my commissions went towards helping Ukraine's defense in March of 2022, I ceased working on this projects for good in early 2023.
+Facing an abundance of time and creative energy in 2021, I started drawing silly drawings with humorous captions on [Instagram](https://www.instagram.com/fergyandfriends). Having amassed over 25,000 followers at the account's peak after running a campaign where 100% of the proceeds from my commissions went towards helping Ukraine's defense in March of 2022, I ceased working on this projects in 2024.
 
 ## DUSTAH
 
