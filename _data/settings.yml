@@ -20,6 +20,8 @@ menu__settings:
           url: "/"
         - title: "About Me"
           url: "/about/"
+        - title: "Research"
+          url: "/research/"
         # - title: 'Pages'
         #   submenu:
         #   - url: '/authors/'
@@ -68,6 +70,8 @@ footer__menu__settings:
           url: "/"
         - title: "About Me"
           url: "/about/"
+        - title: "Research"
+          url: "/research/"
         - title: "Contact"
           url: "/contact/"
         # - title: "Authors"
