@@ -11,6 +11,7 @@ image_caption:
 
 ## Presentations
 Hanžl, P. (2025, June 23-27). Ask the Right Questions: Dynamic Perception Testing with Active Machine Learning [Poster session]. MEDAL Summer School in Computational Modelling, Birmingham.
+
 Láznička, M., & Hanžl, P. (2024, November 13-15). Personal and reflexive possessive pronouns in Czech: Corpus distributions and speakers’ intuitions [Conference presentation and abstract]. 19th Slavic Cognitive Linguistics Conference, Kraków.
 
 ## Thesis
