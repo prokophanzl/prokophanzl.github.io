@@ -11,11 +11,11 @@ image_caption:
 
 ## Charles University 🇨🇿 (2021-2025)
 
-I'm pursuing a bachelor's degree in general linguistics and phonetics at Charles University in Prague, Czechia. I am on track to conclude my studies in June 2025 with exceptional grades, having received the university's **Scholarship for Extraordinary Academic Performance** in both my first and second year.
+I'm pursuing a bachelor's degree in general linguistics and phonetics at Charles University in Prague, Czechia. I am on track to conclude my studies in September 2025 with exceptional grades, having received the university's **Scholarship for Extraordinary Academic Performance** in both my first and second year.
 
 ## University of Heidelberg 🇩🇪 (04-09/2024)
 
-I am currently spending a semester at the University of Heidelberg in Germany through Erasmus+. In Heidelberg, I am studying under the German Studies program.
+I spent a semester at the University of Heidelberg in Germany through Erasmus+. In Heidelberg, I studied under the German Studies program, receiving perfect grades in all of my classes.
 
 ## University of Basel 🇨🇭 (09/2022-01/2023)
 
